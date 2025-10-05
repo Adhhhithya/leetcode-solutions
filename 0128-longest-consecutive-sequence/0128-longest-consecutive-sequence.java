@@ -1,6 +1,6 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        int n = nums.length;
+       int n = nums.length;
         int cnt = 0;
         int longest =0;
         int last_smaller = Integer.MIN_VALUE;
