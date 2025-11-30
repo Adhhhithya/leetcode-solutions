@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |
