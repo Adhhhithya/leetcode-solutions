@@ -15,7 +15,7 @@ class Solution {
         }
          if(word.length()>0){
             words.add(word.toString());
-         }.
+         }
          Collections.reverse(words);
          return String.join(" ",words);
     }
