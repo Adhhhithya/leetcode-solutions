@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2104-sum-of-subarray-ranges](https://github.com/Adhhhithya/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adhhhithya/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/Adhhhithya/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Adhhhithya/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
