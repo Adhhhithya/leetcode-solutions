@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search Tree
 |  |
 | ------- |
