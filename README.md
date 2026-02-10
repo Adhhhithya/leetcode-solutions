@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
