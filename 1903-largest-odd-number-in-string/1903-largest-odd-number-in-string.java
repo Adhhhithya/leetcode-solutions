@@ -1,17 +1,20 @@
 class Solution {
     public String largestOddNumber(String num) {
         int j=-1;
-        int i;
-        for(i=num.length()-1;i>=0;i--){
+        int n = num.length();
+
+        for(int i=n-1;i>=0;i--){
             if((num.charAt(i)-'0')%2==1){
-                j=i;
+                j = i;
                 break;
             }
         }
         if(j==-1) return "";
-        i=0;
-        while(i<=j && num.charAt(i)=='0') i++;
 
+        int i=0;
+        while(i<=j && num.charAt(i)=='0'){
+            i++;
+        }
         return num.substring(i,j+1);
     }
 }
