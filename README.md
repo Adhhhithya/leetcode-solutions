@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0451-sort-characters-by-frequency](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0451-sort-characters-by-frequency](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
@@ -443,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
