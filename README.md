@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Adhhhithya/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
