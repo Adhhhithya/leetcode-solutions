@@ -499,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Adhhhithya/leetcode-solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
