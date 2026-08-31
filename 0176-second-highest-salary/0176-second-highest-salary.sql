@@ -1,13 +1,12 @@
-# Write your MySQL query statement below
-select  (
+select(
     select salary
     from(
         select salary,
         dense_rank() over(
             order by salary desc
-        )as rn
+        ) as rnk
         from Employee
     ) as temp
-    where rn=2
+    where rnk=2
     limit 1
 ) as SecondHighestSalary
