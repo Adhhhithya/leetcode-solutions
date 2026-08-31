@@ -7,4 +7,3 @@ select
 from Person p
 left join Address a
 on p.personId = a.personId
--- group by p.personId
